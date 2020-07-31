@@ -1,0 +1,4 @@
+ssl_verify: true
+show_channel_urls: true
+channels:
+  - defaults
